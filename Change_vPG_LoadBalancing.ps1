@@ -1,6 +1,6 @@
 <#
-Esse script irá trocar a configuração de load balacing dos port groups para IP HASH descritos 
-em um arquivo .txt.
+Esse script irá trocar a configuração de load balacing dos port groups descritos 
+em um arquivo .txt para IP HASH.
 #>
 
 
